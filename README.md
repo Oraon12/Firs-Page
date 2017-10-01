@@ -6,9 +6,7 @@
   </head>
   <body bgcolor="#CCFFFF" text="Black" link="#3333FF" vlink="#CC33FF" alink="#000099" leftmargin="1" topmargin="1" rightmargin="1" bottommargin="1">
     <h1>
-    <center>
-      <font color="fuchsia">Welcome to First Web Page ! </font>
-    </center>
+    <center><font color="fuchsia">Welcome to First Web Page ! </font></center>
     <center>
       &nbsp;<img border="2" hspace="1" vspace="2" src="../Images/pexels-photo.jpg" ismap width="861" align="middle" height="233" usemap="1">
       </center>
